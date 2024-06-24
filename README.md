@@ -1,8 +1,13 @@
-# React + Vite
+ GUVI Blog Navigation
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This project is a React application that mimics the navigation of the GUVI blog using React Router DOM.
 
-Currently, two official plugins are available:
+ Getting Started
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+To get started with this project, clone the repository and install the dependencies:
+
+```sh
+git clone <https://github.com/SuriyaPriyanS/GuviBlogApp1/>
+cd guvi-blog
+npm install
+npm start
